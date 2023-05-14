@@ -1,4 +1,4 @@
-package kashdev.understandproperties.controller;
+package dev.kash.environmentProperties.controller;
 
 public class Course {
 
