@@ -6,4 +6,4 @@ Environment Specific Properties
 Run
 
 1. `mvn clean compile`
-2. `mvn spring-boot:run -Dspring.profiles.active=qa`
+2. `mvn spring-boot:run "-Dspring-boot.run.profiles=qa"`
